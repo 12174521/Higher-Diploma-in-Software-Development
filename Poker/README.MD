@@ -1,6 +1,6 @@
 # A SIMPLE POKER GAME
 
-For each round of poker, you and the computer are dealt a hand. You then decide if you, or the dealer(computer), can, and want to “open” the game. If one of you does so,  1 token goes “into the pot”. 
+For each round of poker you and the computer are dealt a hand. You then decide if you or the dealer(computer) can and want to “open” the game. If one of you does then 1 token goes “into the pot”. 
 
 You can specify the cards you would like to re-fresh in your hand (to a maximum of 4). Likewise the dealer can refresh their hand, up to four cards.
 
@@ -19,4 +19,4 @@ Triplets (the higher the better)
 2 pairs (the higher the better)
 1 pair (the higher the better) 
 
-To ‘open you need a pair of jacks or better in the above list.
+To open you need a pair of jacks or better in the above list.
