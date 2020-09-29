@@ -16,3 +16,5 @@ The main functionality of the program:
  - Provides a graphical user interface (GUI) to the system using JavaFX; 
 
  - Offers operator authentication services for customers and admin.
+ 
+ The program can be run through the main Login class.
